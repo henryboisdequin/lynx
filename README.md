@@ -15,9 +15,9 @@ A basic text editor written in Rust. Lynx was made <a href="https://www.philippf
 
 ## Todo
 
-- Show current line number
 - Open folder
 - Typescript, Javascript, TSX, JSX support
+- Copy and paste ability
 
 ## Run Lynx
 
