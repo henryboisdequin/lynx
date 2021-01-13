@@ -1,5 +1,8 @@
 # lynx
 
+![Version](https://img.shields.io/github/v/release/henryboisdequin/lynx?style=for-the-badge)
+![Maintained](https://img.shields.io/maintenance/yes/2021?style=for-the-badge)
+
 <img src="./images/lynx.png"></img>
 
 A basic text editor written in Rust. Lynx was made <a href="https://www.philippflenker.com/hecto/">following this awesome tutorial</a> and adding more features.
