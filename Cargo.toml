@@ -1,0 +1,11 @@
+[package]
+name = "lynx"
+version = "0.1.0"
+authors = ["Henry Boisdequin <boisdequinhenry19@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+termion = "1.5"
+unicode-segmentation = "1.7"
